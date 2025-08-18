@@ -3,14 +3,21 @@
         "path":  "assets/public-previews/brunosso-character-sheet_v1_tall.png",
         "sha256":  "c28cca3d80b41ebf519e97a0f6be40d970ec37571ae71672c53509fcab64c75a",
         "bytes":  1405063,
-        "commit":  "667d1da488896e23e8c70e73f58ba7d5f64b924e",
-        "date":  "2025-08-18T13:00:20Z"
+        "commit":  "854fd4a8d0f1e5e3e977f3bc34ec10e45a33be74",
+        "date":  "2025-08-18T14:11:06Z"
+    },
+    {
+        "path":  "assets/public-previews/logo_black_alpha_cutout.png",
+        "sha256":  "3e3ac264307f1a099838dac6c473018a8d9cc009438b5b8fa9b4233768abbba5",
+        "bytes":  1975257,
+        "commit":  "854fd4a8d0f1e5e3e977f3bc34ec10e45a33be74",
+        "date":  "2025-08-18T14:11:06Z"
     },
     {
         "path":  "assets/public-previews/MANIFEST.json",
-        "sha256":  "dac279b826aa0d42d0e3397cff1f85e58b651f10faf9d911d2d41c35207b2f4a",
+        "sha256":  "029c7ba1702412b88c04e2f3d0144b96da167e647f06fb09abeea2d4dfcd34e4",
         "bytes":  615,
-        "commit":  "667d1da488896e23e8c70e73f58ba7d5f64b924e",
-        "date":  "2025-08-18T13:00:20Z"
+        "commit":  "854fd4a8d0f1e5e3e977f3bc34ec10e45a33be74",
+        "date":  "2025-08-18T14:11:06Z"
     }
 ]
