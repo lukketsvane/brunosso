@@ -3,14 +3,14 @@
         "path":  "assets/public-previews/brunosso-character-sheet_v1_tall.png",
         "sha256":  "c28cca3d80b41ebf519e97a0f6be40d970ec37571ae71672c53509fcab64c75a",
         "bytes":  1405063,
-        "commit":  "c8ae3c4be3d208ab96cffcb847a9a0e59da1b28c",
-        "date":  "2025-08-18T12:57:20Z"
+        "commit":  "667d1da488896e23e8c70e73f58ba7d5f64b924e",
+        "date":  "2025-08-18T13:00:20Z"
     },
     {
         "path":  "assets/public-previews/MANIFEST.json",
-        "sha256":  "bdb30483bd3d25ff8663e5bab3b3e9c5c604c231f5d892b8776ba374eb58b2d5",
-        "bytes":  613,
-        "commit":  "c8ae3c4be3d208ab96cffcb847a9a0e59da1b28c",
-        "date":  "2025-08-18T12:57:20Z"
+        "sha256":  "dac279b826aa0d42d0e3397cff1f85e58b651f10faf9d911d2d41c35207b2f4a",
+        "bytes":  615,
+        "commit":  "667d1da488896e23e8c70e73f58ba7d5f64b924e",
+        "date":  "2025-08-18T13:00:20Z"
     }
 ]
