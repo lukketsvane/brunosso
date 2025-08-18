@@ -1,0 +1,10 @@
+﻿assets/masters/
+*.ai
+*.psd
+*.blend
+*.ztl
+*.obj
+*.fbx
+*.svg
+*.zip
+.DS_Store
