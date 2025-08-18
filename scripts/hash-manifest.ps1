@@ -1,4 +1,4 @@
-﻿# 2025-08-18 — Brunosso hashing (fixed)
+﻿# 2025-08-18 — Brunosso hashing (compat)
 $root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path
 $pub  = Join-Path $root 'assets\public-previews'
 if (-not (Test-Path $pub)) { New-Item -ItemType Directory -Path $pub -Force | Out-Null }
@@ -13,11 +13,12 @@ $manifest = foreach ($i in $items) {
     sha256 = $hash
     bytes  = (Get-Item -LiteralPath $i.FullName).Length
     commit = (& git -C $root rev-parse HEAD 2>$null)
-    date   = (Get-Date -AsUTC -Format 'yyyy-MM-ddTHH:mm:ssZ')
+    date   = (Get-Date).ToUniversalTime().ToString('yyyy-MM-ddTHH:mm:ssZ')
   }
 }
 $manifest | ConvertTo-Json -Depth 5 | Out-File -LiteralPath $manifestPath -Encoding utf8
 
+# Book hash (pick newest PDF)
 $pdfDir = Join-Path $root 'book'
 $pdf = Get-ChildItem -Path $pdfDir -Filter '*.pdf' -File -ErrorAction SilentlyContinue |
        Sort-Object LastWriteTime -Descending | Select-Object -First 1

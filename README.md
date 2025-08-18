@@ -7,3 +7,8 @@ Original cartoon character by **øystein runde**.
 - Provenance & hashing: PROVENANCE.md
 
 Commercial licensing: **oysteinrunde@gmail.com**
+
+## Character sheet
+
+![Brunosso character sheet](assets/public-previews/brunosso-character-sheet_v1_tall.png)
+
