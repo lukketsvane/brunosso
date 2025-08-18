@@ -12,3 +12,10 @@ Commercial licensing: **oysteinrunde@gmail.com**
 
 ![Brunosso character sheet](assets/public-previews/brunosso-character-sheet_v1_tall.png)
 
+## Owner / Contact
+
+- Rights holder: **Øystein Runde** — Enkeltpersonforetak (Org nr 885 037 402)  
+- Address: Stavangergata 46 A, 0467 Oslo, Norway  
+- Tel: +47 414 74 956  
+- Email: **oysteinrunde@gmail.com**
+

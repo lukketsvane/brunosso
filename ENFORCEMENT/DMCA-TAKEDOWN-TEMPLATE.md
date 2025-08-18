@@ -1,5 +1,5 @@
 ﻿To: <Platform> DMCA Agent
-From: øystein runde (oysteinrunde@gmail.com)
+From: Øystein Runde (oysteinrunde@gmail.com | +47 414 74 956)
 Date: 2025-08-18
 Subject: DMCA Takedown — “Brunosso”
 
@@ -11,4 +11,7 @@ distributing/monetizing my work without authorization:
 Good-faith belief: the use is not authorized.
 Under penalty of perjury, I am the owner or authorized agent.
 
-Signature: øystein runde
+Signature:
+Øystein Runde
+Enkeltpersonforetak (Org nr 885 037 402)
+Stavangergata 46 A, 0467 Oslo, Norway
